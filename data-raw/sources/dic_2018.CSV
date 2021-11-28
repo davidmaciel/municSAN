@@ -1,0 +1,50 @@
+var;label
+Caracterização do órgão gestor ;MSAN01
+SubordAssistência social;MSAN021
+SubordAgricultura;MSAN022
+SubordPlanejamento;MSAN023
+SubordSaúde;MSAN024
+SubordDireitos humanos;MSAN025
+SubordOutra;MSAN026
+Lei municipal de segurança alimentar - existência;MSAN04
+Número da lei;MSAN041
+Mês promulgação;MSAN042A
+Ano da promulgação;MSAN042B
+Mês da apresentação do projeto de lei;MSAN043A
+Ano da apresentação do projeto de lei;MSAN043B
+Conselho Municipal de Segurança Alimentar - existência;MSAN05
+Lei de criação;MSAN051A
+Ano de criação;MSAN051B
+Formação;MSAN052
+CaráterConsultivo;MSAN061
+CaráterDeliberativo;MSAN062
+CaráterNormativo;MSAN063
+CaráterFiscalizador;MSAN064
+Quantidade de reuniões nos últimos 12 meses;MSAN07
+Número de conselheiros (titulares e suplentes);MSAN08
+CapacitacaoContinuada;MSAN091
+CapacitacaoEventual;MSAN092
+CapacitacaoSem;MSAN093
+DispolInfra;MSAN10
+Sala própria;MSAN1011
+Computador;MSAN1012
+Impressora;MSAN1013
+Acesso à internet;MSAN1014
+Veículo próprio;MSAN1015
+Telefone;MSAN1016
+Diárias;MSAN1017
+Dotação orçamentária própria;MSAN1018
+Câmara ou instância governamental intersetorial de segurança alimentar e nutricional - existência;MSAN11
+RepreFazenda;MSAN121
+ReprePlanejamento;MSAN122
+RepreAgricultura;MSAN123
+RepreSaúde;MSAN124
+RepreTrabalho;MSAN125
+RepreEducação;MSAN126
+RepreAssistência social;MSAN127
+RepreSegurança Alimentar;MSAN128
+RepreCasa Civil;MSAN129
+RepreDireitos Humanos;MSAN1210
+RepreOutras;MSAN1211
+Recursos orçamentários municipais para apoiar o funcionamento;MSAN14
+Plano de segurança alimentar - existência;MSAN15

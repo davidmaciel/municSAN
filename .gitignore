@@ -5,3 +5,4 @@
 .DS_Store
 data-raw/sources/*.xlsx
 data-raw/sources/*.xls
+data-raw/sources/*.pdf
